@@ -1,10 +1,11 @@
 import React from 'react';
+import TypographyComp from "./component/TypographyComp";
 
 
 function App() {
   return (
     <div className="App">
-     <h1>hello</h1>
+    <TypographyComp/>
     </div>
   );
 }
